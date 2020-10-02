@@ -1,0 +1,7 @@
+/debug_classes
+/build
+/.idea
+/.gradle
+*.iml
+*~
+/classes/
